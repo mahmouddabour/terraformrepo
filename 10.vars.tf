@@ -1,0 +1,11 @@
+variable "vpc-test-cidr-block" {}  
+variable "environment" {}
+variable "name_tag" {}
+variable "Publica1-cidr_block" {}
+variable "Publicb1-cidr_block" {}
+variable "Privatea1-cidr_block" {}
+variable "Privatea2-cidr_block" {}
+variable "Privateb1-cidr_block" {}
+variable "Privateb2-cidr_block" {}
+variable "availability_zone1" {}
+variable "availability_zone2" {}
